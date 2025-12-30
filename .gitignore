@@ -1,0 +1,12 @@
+# MISP runtime configs & data
+server-configs/
+files/
+logs/
+ssl/
+
+# Cortex / runtime
+cortex/
+Cortex-Analyzers/
+
+# Docker runtime
+*.log
